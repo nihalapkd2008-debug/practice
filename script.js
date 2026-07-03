@@ -6,9 +6,11 @@ console.log(name);
 showname();
 console.log(name);
 
+// global scope
+
 let college = "bridgeon";
 function show(){
   console.log(college);
 };
-show()
+show();
 console.log(college);
