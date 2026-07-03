@@ -1,5 +1,5 @@
 function showname(){
-let name = "nihala";
+let name = "niha";
 console.log(name);
 
 }
