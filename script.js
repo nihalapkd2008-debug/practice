@@ -1,3 +1,4 @@
+
 const productContainer = document.getElementById("products");
 
 async function getProducts() {
