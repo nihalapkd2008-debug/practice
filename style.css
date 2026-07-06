@@ -1,8 +1,11 @@
 body{
 font-family: 'Times New Roman', Times, serif;
 padding: 20px;
-background: rgb(249, 233, 200);
+background: rgb(255, 249, 238);
 
+}
+h1{
+  text-align: center;
 }
 #products{
 display: flex;
@@ -12,7 +15,7 @@ gap: 20px;
 }
 .card{
 
-  background: rgb(193, 193, 193);
+  background: rgb(233, 231, 231);
    width:220px;
    padding:15px;
    border-radius: 10px;
